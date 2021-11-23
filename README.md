@@ -8,14 +8,20 @@ The thought is that all matter (whether solid, liquid, gas, simple, complex, etc
 
 Similarly, interfaces are made up of smaller components. This means we can break entire interfaces down into fundamental building blocks and work up from there. That’s the basic gist of atomic design.
 
+NOTE: Design systems are not UI kits.
+
 ## What is atomic design
 
 Atomic design is methodology for creating design systems. There are five distinct levels in atomic design:
 
 (1) Atoms
+
 (2) Molecules
+
 (3) Organisms
+
 (4) Templates
+
 (5) Pages
 
 ![atomic-design](images/atomic-design.png)
